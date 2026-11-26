@@ -1,0 +1,11 @@
+# build output
+build/
+*.ipa
+# never commit game files: they live next to this folder (see setup.sh)
+*.so
+*.pack
+*.ogg
+*.mp4
+*.apk
+.DS_Store
+local.env

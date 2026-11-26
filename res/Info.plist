@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+	<key>CFBundleExecutable</key><string>SpiderMan</string>
+	<key>CFBundleIdentifier</key><string>__BUNDLE__</string>
+	<key>CFBundleName</key><string>Spider-Man</string>
+	<key>CFBundleDisplayName</key><string>Spider-Man</string>
+	<key>CFBundlePackageType</key><string>APPL</string>
+	<key>CFBundleShortVersionString</key><string>1.0</string>
+	<key>CFBundleVersion</key><string>__BUILD__</string>
+	<key>CFBundleIcons</key><dict><key>CFBundlePrimaryIcon</key><dict><key>CFBundleIconFiles</key><array><string>AppIcon60x60</string></array></dict></dict>
+	<key>LSRequiresIPhoneOS</key><true/>
+	<key>MinimumOSVersion</key><string>17.0</string>
+	<key>UIDeviceFamily</key><array><integer>1</integer><integer>2</integer></array>
+	<key>UILaunchScreen</key><dict><key>UIColorName</key><string></string></dict>
+	<key>UIRequiresFullScreen</key><true/>
+	<key>UIApplicationSceneManifest</key><dict><key>UIApplicationSupportsMultipleScenes</key><false/></dict>
+	<key>UIStatusBarHidden</key><true/>
+	<key>UISupportedInterfaceOrientations</key><array><string>UIInterfaceOrientationLandscapeRight</string><string>UIInterfaceOrientationLandscapeLeft</string></array>
+	<key>UISupportedInterfaceOrientations~ipad</key><array><string>UIInterfaceOrientationLandscapeRight</string><string>UIInterfaceOrientationLandscapeLeft</string></array>
+	<key>CADisableMinimumFrameDurationOnPhone</key><true/>
+	<key>UIApplicationShortcutItems</key><array><dict>
+		<key>UIApplicationShortcutItemType</key><string>settings</string>
+		<key>UIApplicationShortcutItemTitle</key><string>Settings</string>
+		<key>UIApplicationShortcutItemIconSymbolName</key><string>gearshape</string>
+	</dict></array>
+	<key>NSMotionUsageDescription</key><string>Tilt controls, like the original game.</string>
+	<key>UIFileSharingEnabled</key><true/>
+	<key>LSSupportsOpeningDocumentsInPlace</key><true/>
+	<key>GCSupportsControllerUserInteraction</key><true/>
+	<key>GCSupportedGameControllers</key><array><dict><key>ProfileName</key><string>ExtendedGamepad</string></dict></array>
+</dict></plist>
